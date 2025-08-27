@@ -1,15 +1,19 @@
 # Programaci-n-para-videojuegos-4-dragones-esmeralda
-# Proyecto colaborativo - Etapa 1
+<h1>Proyecto colaborativo - Etapa 1</h1>
 
----
+<hr>
 
-### Andrés Salazar
+<h3>Andrés Salazar</h3>
 <img src="AndresSalazar/IMG-20240104-WA0010.jpg" width="200"/>
-- **Rol en la industria:** 
-- **Ubicación:** Riosucio, Caldas, Colombia
-- **Perfil:** Soy estudiante de ingeniería multimedia y tengo 22 años. Me interesa mucho la programación y la animación.
+
+<ul>
+    <li><strong>Rol en la industria:</strong> [Especifica tu rol: </li>
+    <li><strong>Ubicación:</strong> Riosucio, Caldas, Colombia</li>
+    <li><strong>Perfil:</strong> Soy estudiante de ingeniería multimedia y tengo 22 años. Me interesa mucho la programación y la animación.</li>
+</ul>
 
 <img src="AndresSalazar/bandeja-paisa-1616-1.gif" width="200"/>
-*Mi plato favorito: la Bandeja paisa*
+<br>
+<em>Mi plato favorito: Bandeja paisa</em>
 
----
+<hr>
