@@ -1,2 +1,7 @@
-# Programaci-n-para-videojuegos-4-dragones-esmeralda
-Proyecto colaborativo - Etapa 1
+## Nikol Ramirez
+- Foto:
+  ![Foto de Nikol](Nikol/yo)
+- Nombre: Nikol Camila Ramirez Murillo
+- Rol: 
+- Ubicación: Cali, Colombia
+- Perfil: <3
