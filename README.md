@@ -7,9 +7,9 @@ Proyecto colaborativo - Etapa 1
 
 <p>Rol: Artista </p>
 
-<p>Tierralta,Córdoba</p>
+<p>Ubicación: Tierralta,Córdoba</p>
 
-<p>Soy una estudiante de Ingeniería multimedia, tongo 20 años y me gusta mucho dibujar, por eso me apasiona aprender cosas nuevas como la animación 2D y 3D</p>
+<p>Perfil: Soy una estudiante de Ingeniería multimedia, tongo 20 años y me gusta mucho dibujar, por eso me apasiona aprender cosas nuevas como la animación 2D y 3D</p>
 
 <p>Mi plato favorito es el espagueti con patacones</p>
 
