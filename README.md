@@ -2,7 +2,7 @@
 - Foto:  
   <img src="Nikol/yo.jpg" alt="Foto de Nikol" width="250">
 - Nombre: Nikol Camila Ramirez Murillo
-- Rol: 
+- Rol: Diseñadora de Niveles
 - Ubicación: Cali, Colombia
 - Perfil: Hola! Soy Tecnóloga en Animación 3D y estudiante de Ingeniería Multimedia. Tengo 21 años y me apasiona el modelado 3D y la creación de entornos visuales que transmitan emociones.
 - Mi plato favorito:  
