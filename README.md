@@ -1,7 +1,7 @@
 # Programaci-n-para-videojuegos-4-dragones-esmeralda
 Proyecto colaborativo - Etapa 1
 
-<img src="steicy\Imagen de WhatsApp 2025-08-25 a las 14.04.35_a672fdfb.jpg"alt="Steicy" width="300">
+<img src="steicy\Imagen de WhatsApp 2025-08-25 a las 14.04.35_a672fdfb.jpg" alt="Steicy" width="300">
 
 <h1>Steicy Avilez</h1>
 
@@ -13,4 +13,4 @@ Proyecto colaborativo - Etapa 1
 
 <p>Mi plato favorito es el espagueti con patacones</p>
 
-<img src="steicy\Imagen de WhatsApp 2025-08-25 a las 14.14.09_c6416fba.jpg"alt="Mi plato favorito" width="300">
+<img src="steicy\Imagen de WhatsApp 2025-08-25 a las 14.14.09_c6416fba.jpg" alt="Mi plato favorito" width="300">
