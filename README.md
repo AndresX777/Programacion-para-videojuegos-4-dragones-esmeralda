@@ -7,7 +7,7 @@
 <img src="AndresSalazar/IMG-20240104-WA0010.jpg" width="200"/>
 
 <ul>
-    <li><strong>Rol en la industria:</strong> </li>
+    <li><strong>Rol en la industria:</strong> Programador principal </li>
     <li><strong>Ubicación:</strong> Riosucio, Caldas, Colombia</li>
     <li><strong>Perfil:</strong> Soy estudiante de ingeniería multimedia y tengo 22 años. Me interesa mucho la programación y la animación.</li>
 </ul>
