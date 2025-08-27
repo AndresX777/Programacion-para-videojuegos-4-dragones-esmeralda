@@ -4,6 +4,6 @@
 - Nombre: Nikol Camila Ramirez Murillo
 - Rol: 
 - Ubicación: Cali, Colombia
-- Perfil: Hola! Soy Tecnóloga en Animación 3D y estudiante de Ingeniería Multimedia. Me apasiona el modelado 3D y la creación de entornos visuales que transmitan emociones. Tengo muchos hobbies y en mis tiempos libres me inspiro en el arte, dibujo, pinto, tatuó, tejo y paso tiempo con mis gatos.
+- Perfil: Hola! Soy Tecnóloga en Animación 3D y estudiante de Ingeniería Multimedia. Tengo 21 años y me apasiona el modelado 3D y la creación de entornos visuales que transmitan emociones.
 - Mi plato favorito:  
   <img src="Nikol/mi-plato-favorito.png" alt="Plato favorito" width="250">
