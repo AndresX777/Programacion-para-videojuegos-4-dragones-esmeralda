@@ -5,7 +5,7 @@ Proyecto colaborativo - Etapa 1
 
 <h1>Steicy Avilez</h1>
 
-<p>Rol:</p>
+<p>Rol: Artista </p>
 
 <p>Tierralta,Córdoba</p>
 
