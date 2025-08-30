@@ -1,3 +1,11 @@
+## Juan Solano
+<img src="https://github.com/AndresX777/Programacion-para-videojuegos-4-dragones-esmeralda/blob/JUAN/Juan%20Carlos/jc.jpg" width="250"/>
+- *Rol:* Diseñador de Audio
+- *Ubicación:* Galicia España
+- *Perfil:* Soy estudiante de ingeniería multimedia, tecnólogo en audio y estudio lenguas extranjeras.
+- *Mi plato favorito:* Plato verduras 
+<img src="https://github.com/AndresX777/Programacion-para-videojuegos-4-dragones-esmeralda/blob/JUAN/Juan%20Carlos/Plato%20verduras.jpg" width="250"/>
+
 # Programación para videojuegos - 4 dragones esmeralda
 <h1>Proyecto colaborativo - Etapa 1</h1>
 <hr>
