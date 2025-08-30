@@ -51,4 +51,4 @@
 - **Rol:** Game designer
 - **Ubicación:** Istmina, Chocó
 - **Perfil:** Soy estudiante apasionado por la multimedia, con interés en la creación de proyectos interactivos, producción audiovisual y el uso de la tecnología para la innovación.
-<img src="pizzaYh.jpg" width="250"/>
+<img src="[pizzaYh.jpg](https://github.com/AndresX777/Programacion-para-videojuegos-4-dragones-esmeralda/blob/main/YilmarSalazar/pizzaYh.jpg)" width="250"/>
