@@ -2,6 +2,19 @@
 <h1>Proyecto colaborativo - Etapa 1</h1>
 <hr>
 
+## Juan Solano
+<img src="https://github.com/AndresX777/Programacion-para-videojuegos-4-dragones-esmeralda/blob/JUAN/Juan%20Carlos/jc.jpg" width="250"/>
+- **Rol:** Diseñador de Audio
+- **Ubicación:** Galicia, España
+- **Perfil:** Soy estudiante de ingeniería multimedia, tecnólogo en audio y estudio lenguas extranjeras.
+- **Mi plato favorito:** Plato de verduras
+<img src="https://github.com/AndresX777/Programacion-para-videojuegos-4-dragones-esmeralda/blob/JUAN/Juan%20Carlos/Plato%20verduras.jpg" width="250"/>
+
+<hr>
+# Programación para videojuegos - 4 dragones esmeralda
+<h1>Proyecto colaborativo - Etapa 1</h1>
+<hr>
+
 ## Steicy Avilez
 <img src="steicy/Imagen de WhatsApp 2025-08-25 a las 14.04.35_a672fdfb.jpg" alt="Steicy" width="250">
 - **Rol:** Artista
