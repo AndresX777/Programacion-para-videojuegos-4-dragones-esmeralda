@@ -51,3 +51,4 @@
 - **Rol:** Game designer
 - **Ubicación:** Istmina, Chocó
 - **Perfil:** Soy estudiante apasionado por la multimedia, con interés en la creación de proyectos interactivos, producción audiovisual y el uso de la tecnología para la innovación.
+<img src="pizzaYh.jpg" width="250"/>
